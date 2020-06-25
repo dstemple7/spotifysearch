@@ -28,7 +28,7 @@ axios(config)
 return (
 
   <div>
-    <h1>Holla</h1>
+    <h1>Hola</h1>
   </div>
 
 )
